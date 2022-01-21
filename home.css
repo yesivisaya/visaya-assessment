@@ -1,0 +1,18 @@
+.nav-menu {
+    background-color: #fff;
+    color: #7db6fc;
+  }
+  
+  .banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .nav-links:hover {
+    background: #fff;
+    color: #6668f4;
+    transition: 250ms;
+  }
+  
+  
